@@ -9,7 +9,7 @@ Full Stack application to upload and analyze molecule CSV data.
 - View statistics dashboard
 
 ## Tech Stack
-Backend: FastAPI / Flask  
+Backend: FastAPI 
 Frontend: React (Vite)
 
 ## Run Project
